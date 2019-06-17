@@ -1,6 +1,7 @@
 # Lidar Stereo Fusion
 This repository is a research and in-progress project to explore lidar and stereo fusion strategies. The main papers that have been surveyed are in the `papers` folder.
 Currently, this repository implements the following paper (but with only truncated L2 Lidar loss):
+
 Xuelian Cheng*, Yiran Zhong*, Yuchao Dai, Pan Ji, Hongdong Li.
 _Noise-Aware Unsupervised Deep Lidar-Stereo Fusion._
 In CVPR, 2019. https://arxiv.org/abs/1904.03868.
@@ -9,6 +10,7 @@ At the time of publishing of our project, the original author's repo hasn't been
 monitor their repository for real-time updates in the future: https://github.com/AvrilCheng/LidarStereoNet/
 
 Resources used in implementing the LidarStereoNet network architecture:
+
 PSMNet source code at: https://github.com/JiaRenChang/PSMNet
 DepthComplete project at: https://github.com/yxgeee/DepthComplete
 
